@@ -8,7 +8,7 @@
 
 ![Logo](https://user-images.githubusercontent.com/48457700/116827094-c3d17080-ab6d-11eb-84b7-7eaaea59fb5f.png)
 
-# React Lavish
+# ReactJs Lavish
 This a payment's web site created with ReactJS
 
 ## Technologies Used:
