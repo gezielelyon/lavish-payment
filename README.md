@@ -2,7 +2,7 @@
 
 <div align='center'>
 
-# **Lavish Payment Landpage**
+# **React Lavish Payment**
 
 </div>
 
