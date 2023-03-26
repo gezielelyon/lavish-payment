@@ -8,10 +8,10 @@
 
 <div align='center'>
 
-![GitHub issues](https://img.shields.io/github/issues/gezielelyon/next_podcastr)
-![GitHub forks](https://img.shields.io/github/forks/gezielelyon/next_podcastr)
-![GitHub starts](https://img.shields.io/github/stars/gezielelyon/next_podcastr)
-![GitHub license](https://img.shields.io/github/license/gezielelyon/next_podcastr)
+![GitHub issues](https://img.shields.io/github/issues/gezielelyon/react_lavish_payment)
+![GitHub forks](https://img.shields.io/github/forks/gezielelyon/react_lavish_payment)
+![GitHub starts](https://img.shields.io/github/stars/gezielelyon/react_lavish_payment)
+![GitHub license](https://img.shields.io/github/license/gezielelyon/react_lavish_payment)
 ![Javascript](https://img.shields.io/badge/Javascript-Language-yellow)
 ![HTML](https://img.shields.io/badge/HTML-Hypertext-red)
 ![CSS](https://img.shields.io/badge/CSS-Styles-pink)
