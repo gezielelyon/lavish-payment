@@ -2,16 +2,16 @@
 
 <div align='center'>
 
-# **React Lavish Payment**
+# **Lavish Payment**
 
 </div>
 
 <div align='center'>
 
-![GitHub issues](https://img.shields.io/github/issues/gezielelyon/react_lavish_payment)
-![GitHub forks](https://img.shields.io/github/forks/gezielelyon/react_lavish_payment)
-![GitHub starts](https://img.shields.io/github/stars/gezielelyon/react_lavish_payment)
-![GitHub license](https://img.shields.io/github/license/gezielelyon/react_lavish_payment)
+[![GitHub issues](https://img.shields.io/github/issues/gezielelyon/lavish-payment)](https://github.com/gezielelyon/lavish-payment/issues)
+[![GitHub forks](https://img.shields.io/github/forks/gezielelyon/lavish-payment)](https://github.com/gezielelyon/lavish-payment/network)
+[![GitHub stars](https://img.shields.io/github/stars/gezielelyon/lavish-payment)](https://github.com/gezielelyon/lavish-payment/stargazers)
+[![GitHub license](https://img.shields.io/github/license/gezielelyon/lavish-payment)](https://github.com/gezielelyon/lavish-payment)
 ![Javascript](https://img.shields.io/badge/Javascript-Language-yellow)
 ![HTML](https://img.shields.io/badge/HTML-Hypertext-red)
 ![CSS](https://img.shields.io/badge/CSS-Styles-pink)
